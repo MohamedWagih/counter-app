@@ -1,0 +1,16 @@
+.container{
+    margin: 0 auto;
+    /* background: #ccc;     */
+    display: table;
+    /* width: 500px; */
+    /* width: 70%; */
+    border-radius: 20px;
+    /* background: #EEE; */
+    background: rgba(33,37,41,.6);
+}
+
+.resetBtn{
+    margin: 0 auto;
+    display: table;
+
+}
